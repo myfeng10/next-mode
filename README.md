@@ -1,14 +1,17 @@
 # Next Mode
 
-Stop debating what kind of work is safe next.
+Know what kind of work is safe after your attention has already been spent.
 
-Next Mode translates sleep, meetings, timeline, food, context switching, and fatigue signals into one clear recommendation: push, switch modes, recover, or stop.
+Working with AI can feel effortless while quietly spending real cognitive energy: prompting, judging outputs, switching context, debugging, deciding, and holding the whole project in your head.
 
-Built for days when you do not need another productivity menu. You need a decision.
+Next Mode translates that hidden spend, plus sleep, timeline, meetings, food, and fatigue signals, into one clear recommendation: push, switch modes, recover, or stop.
+
+Built for people doing AI-assisted creative or technical work who do not need another productivity menu. You need to know your next safe mode.
 
 ## What It Helps With
 
-- Decide whether another deep-work block is safe
+- Notice when AI-assisted work has already spent more effort than it looked like
+- Decide whether another deep-work block is actually safe
 - Switch from generative work to execution before depletion
 - Avoid late-day crashes
 - Get one clear next mode when attention is scattered
@@ -29,4 +32,6 @@ Use $next-mode to decide whether I should push, switch modes, recover, or stop f
 
 ## Core Idea
 
-You are not asking for a productivity menu. You want a calm, decisive recommendation you can act on immediately.
+AI can reduce manual effort while increasing invisible cognitive load.
+
+You are not asking for a productivity menu. You want a calm, decisive recommendation that tells you what mode is safe now.

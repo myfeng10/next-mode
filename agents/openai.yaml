@@ -1,7 +1,7 @@
 interface:
   display_name: "Next Mode"
-  short_description: "Decide whether to push, switch, or stop"
+  short_description: "Read hidden effort and choose next mode"
   icon_small: "./assets/icon.svg"
   icon_large: "./assets/icon.svg"
   brand_color: "#0F766E"
-  default_prompt: "Use $next-mode to decide whether I should push, switch modes, or recover from my sleep and timeline."
+  default_prompt: "Use $next-mode to decide whether I should push, switch, recover, or stop after my sleep, timeline, and AI-assisted work."
