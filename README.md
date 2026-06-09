@@ -1,15 +1,17 @@
 # Next Mode
 
-An agent skill that decides whether the user should push, switch modes, recover, or stop.
+Stop debating what kind of work is safe next.
 
-Most productivity tools give menus. This skill gives one decision from the user's sleep, timeline, meetings, food, context switching, and fatigue signals.
+Next Mode translates sleep, meetings, timeline, food, context switching, and fatigue signals into one clear recommendation: push, switch modes, recover, or stop.
+
+Built for days when you do not need another productivity menu. You need a decision.
 
 ## What It Helps With
 
-- Deciding whether another deep-work block is safe
-- Switching from generative work to execution before depletion
-- Avoiding late-day crashes
-- Giving users with scattered attention one clear next mode
+- Decide whether another deep-work block is safe
+- Switch from generative work to execution before depletion
+- Avoid late-day crashes
+- Get one clear next mode when attention is scattered
 
 ## Install
 
@@ -27,4 +29,4 @@ Use $next-mode to decide whether I should push, switch modes, recover, or stop f
 
 ## Core Idea
 
-The user is not asking for a productivity menu. They want a calm, decisive recommendation they can act on immediately.
+You are not asking for a productivity menu. You want a calm, decisive recommendation you can act on immediately.

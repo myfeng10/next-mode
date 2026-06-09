@@ -1,6 +1,6 @@
 ---
 name: next-mode
-description: Use when a user asks whether to push, stop, recover, or choose the next work mode from sleep, timeline, meetings, food, context switching, or fatigue signals. Gives one decisive next action, not a productivity menu.
+description: "Use when you ask whether to push, stop, recover, or choose the next work mode from sleep, timeline, meetings, food, context switching, or fatigue signals. Gives one decisive next action, not a productivity menu."
 ---
 
 # Next Mode
@@ -13,7 +13,7 @@ Do not treat this as mood tracking. Treat it as capacity translation from observ
 
 Use this for people who are self-managing creative, technical, social, or emotionally demanding work and do not want to manually budget their cognitive energy all day.
 
-The user is not looking for a neutral list of options. They are looking for a decision. Be gentle in language, but decisive in recommendation.
+The person is not looking for a neutral list of options. They are looking for a decision. Be gentle in language, but decisive in recommendation.
 
 ## Trigger Phrases
 
