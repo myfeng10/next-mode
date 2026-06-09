@@ -1,0 +1,7 @@
+interface:
+  display_name: "Next Mode"
+  short_description: "Decide whether to push, switch, or recover"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#0F766E"
+  default_prompt: "Use $next-mode to decide whether I should push, switch modes, or recover from my sleep and timeline."
