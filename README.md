@@ -35,3 +35,12 @@ Use $next-mode to decide whether I should push, switch modes, recover, or stop f
 AI can reduce manual effort while increasing invisible cognitive load.
 
 You are not asking for a productivity menu. You want a calm, decisive recommendation that tells you what mode is safe now.
+
+## Actual before / after
+
+The same late-day AI-work timeline was run in isolated Codex sessions and judged blindly.
+
+- Before: `9/10` — decisive and safe, but context switching was not named as its own cost.
+- After: `10/10` — explicitly accounted for AI supervision, cross-domain switching, short sleep, and recovery that only partially offset the load.
+
+See the [public evaluation note](https://github.com/myfeng10/myfeng10/blob/main/skills-evaluation.md#full-scorecard) for the frozen-suite method and full scorecard.

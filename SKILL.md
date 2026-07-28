@@ -64,6 +64,8 @@ Also account for:
 - Unknown data should lower confidence and make recommendations more conservative.
 - Do not maximize productivity. Optimize for sustainable deployment.
 - Treat "AI did the work" as incomplete evidence. The user may still have spent effort supervising, judging, correcting, and integrating.
+- When the timeline includes recovery, state whether it meaningfully restored capacity or only partially offset the load. Do not silently omit recovery evidence.
+- When the timeline crosses two or more demanding domains, explicitly name context switching as a separate cost in `Why`.
 - If generative capacity is low, recommend execution or recovery without framing it as failure.
 - If the user is in a natural decision point, answer directly.
 - Choose one primary recommendation. Do not present several equally weighted options.
@@ -96,7 +98,7 @@ Safe mode: GENERATIVE | EXECUTION | RECOVERY | SHUTDOWN
 Risk point: concrete time or condition
 Primary action: one specific next action
 Fallback: what to do if the user cannot follow the primary action
-Why: 2-4 bullets grounded in the timeline, including AI-related hidden spend if present
+Why: 2-5 bullets grounded in the timeline, including AI-related hidden spend, context-switch cost, and recovery evidence when present
 Confidence: LOW | MEDIUM | HIGH, with missing data noted
 ```
 
